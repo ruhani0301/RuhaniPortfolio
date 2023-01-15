@@ -458,7 +458,7 @@ h6 { font-size: 16px;}
 }
 
 .post:hover  {
-  transform: rotateY(180deg);
+  transform: rotateY(360deg);
 }
 #social_img {
 	-webkit-filter: blur(3px);
