@@ -470,3 +470,11 @@ h6 { font-size: 16px;}
 	-webkit-filter: blur(0);
 	filter: blur(0);
 }
+footer{
+	background-color: var(--mainColor);
+border:1px solid var(--borderColor);
+
+}
+.footerlinks{
+	padding-top: 1%;
+}
