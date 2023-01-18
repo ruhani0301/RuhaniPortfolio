@@ -17,3 +17,11 @@
 
 
 }
+footer{
+	background-color: var(--mainColor);
+border:1px solid var(--borderColor);
+
+}
+.footerlinks{
+	padding-top: 1%;
+}
